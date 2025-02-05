@@ -1,0 +1,8 @@
+body {
+    background-image: url('er.jpg');
+    background-size: cover; /* Make the image cover the entire background */
+    background-repeat: no-repeat; /* Prevent the image from repeating */
+    background-attachment: fixed; /* Make the background image fixed in place */
+    background-position: right; /* Center the background image */
+  }
+  
